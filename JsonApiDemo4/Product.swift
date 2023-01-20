@@ -17,3 +17,4 @@ struct Product{
     var rate:Double
     var count:Int
 }
+//
